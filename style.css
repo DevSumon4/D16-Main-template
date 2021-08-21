@@ -172,7 +172,9 @@ p.morgan_details {
 
 /* contact section */
 
-
+input{
+margin-bottom: 10px;
+}
 .contact_section {
 	padding: 50px 0;
 	background: #fff5e4;
